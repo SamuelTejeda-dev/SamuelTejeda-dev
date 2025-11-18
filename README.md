@@ -8,11 +8,11 @@ I’m a fullstack developer with a strong passion for the frontend world, especi
 
 ## Tools & Tech
 
-Frontend
+#Frontend
 - TypeScript, CSS/Tailwind, React, Electron
-Backend
+#Backend
 - .NET, Express, Node.js, Entity Framework/SQL(PostgreSQL, MySQL)
-DevOps
+#DevOps
 - CI/CD, Docker, testing
 
 ---
