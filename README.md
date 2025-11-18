@@ -1,16 +1,30 @@
 ## Hi there 👋
 
-<!--
-**SamuelTejeda-dev/SamuelTejeda-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm 23 years old, driven by curiosity and a constant desire to improve myself whether it’s through studying, hitting the gym, or challenging myself with climbing.
 
-Here are some ideas to get you started:
+I’m a fullstack developer with a strong passion for the frontend world, especially when it comes to CSS, UI details, and creating smooth, intuitive user experiences. I love turning ideas into interfaces that feel clean, responsive, and enjoyable to use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tools & Tech
+
+- TypeScript  
+- CSS/Tailwind
+- React  
+- Electron
+
+- .NET  
+- Express  
+- Node.js
+- Entity Framework/SQL(PostgreSQL, MySQL)
+
+- CI/CD
+- Docker
+- testing
+
+---
+
+## A bit about me
+- 🐢 I have 3 cats, 5 dogs, 2 turtles and lots of chickens
+- 👅 I know italian, english and spanish
+- 🖌️ I also have a talent for drawing
