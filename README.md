@@ -8,19 +8,12 @@ I’m a fullstack developer with a strong passion for the frontend world, especi
 
 ## Tools & Tech
 
-- TypeScript  
-- CSS/Tailwind
-- React  
-- Electron
-
-- .NET  
-- Express  
-- Node.js
-- Entity Framework/SQL(PostgreSQL, MySQL)
-
-- CI/CD
-- Docker
-- testing
+Frontend
+- TypeScript, CSS/Tailwind, React, Electron
+Backend
+- .NET, Express, Node.js, Entity Framework/SQL(PostgreSQL, MySQL)
+DevOps
+- CI/CD, Docker, testing
 
 ---
 
